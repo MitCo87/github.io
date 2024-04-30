@@ -1,0 +1,58 @@
+.container {
+    display: flex;
+    font-family: Tahoma;
+
+}
+
+.info {
+    width: 15%;
+}
+
+.sidebar {
+    background: #34dbeb;
+    height: 1700px;
+}
+
+.photo {
+    width: 80%;
+    margin: 10px;
+    border-radius: 15px 25px 5px 25px;
+    border: 2px solid white;
+}
+
+.info_text {
+    margin: 10px;
+    font-size: 14px;
+}
+
+.pers_data {
+    margin: 10px;
+}
+
+.education {
+    margin: 10px;
+}
+
+.tech_skill {
+}
+
+.interests {
+    margin: 10px;
+}
+
+.language {
+    margin: 10px;
+}
+
+.about_user {
+    margin: 15px;
+}
+
+.name {
+    margin: 36px;
+}
+
+.line {
+    border-bottom: 1px solid;
+    padding-bottom: 2px;
+}
